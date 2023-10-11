@@ -1,0 +1,38 @@
+Abstract for this Project
+
+1. **Importance of Secure Medical Image Sharing**:
+   - Sharing medical images (like X-rays, MRI, and CT scans) safely is super important in healthcare.
+   - These images have vital information for diagnosis, and sharing them quickly among doctors can help patients.
+
+2. **Cybersecurity Challenges**:
+   - But, when you send these images digitally, they can be vulnerable to cyber-attacks.
+   - These attacks can breach patient privacy and confidentiality.
+
+3. **Solution: Encryption**:
+   - To fix this, we use a method called encryption. It's like a secret code for the images.
+   - Encryption makes the image unreadable to anyone who shouldn't see it.
+
+4. **Chinese Remainder Theorem**:
+   - We also use something called the Chinese remainder theorem, which helps make the sharing even more secure.
+   - It breaks the image into smaller pieces that can be sent more safely.
+
+5. **Benefits of this Approach**:
+   - This method helps doctors share images safely and quickly, leading to better patient care.
+   - It ensures that patient privacy and confidentiality are always protected.
+
+6. **Deep Learning in Medical Image Classification**:
+   - We also talk about deep learning, which is like a smart computer program.
+   - It's great at recognizing things in medical images, like tumors in X-rays, MRI, or CT scans.
+
+7. **Tumor Detection with Deep Learning**:
+   - Deep learning helps find different types of tumors, like in the brain, breast, or lungs, in medical images.
+
+8. **Xception for Better Results**:
+   - Xception is a special computer program for medical images.
+   - It's super good at finding diseases and problems in MRI and CT scans.
+
+9. **Why Xception Is Good**:
+   - Xception is great because it's very accurate in finding issues in images.
+   - It's also fast and doesn't need a lot of computer power, so even smaller hospitals can use it.
+
+In short, this abstract is about making sure doctors can share important medical images safely, and also using smart computer programs to help find diseases in those images.
